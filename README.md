@@ -27,10 +27,6 @@ I work at the intersection of statistical methods, machine learning and data qua
 
 <img src="assets/section-achievements.svg" width="100%" alt="Achievements">
 
-- 🎓 **M.Phil. Statistics** — University of Agriculture Faisalabad | 2023–2025 | CGPA: 3.28/4.00
-- 🎓 **BS (Hons.) Statistics** — Government College University Faisalabad | 2015–2019 | CGPA: 3.04/4.00
-- 🎓 **B.Ed.** — Allama Iqbal Open University | 2019–2021 | 73%
-- 🏅 **HEC Merit Scholarship** — Bachelor's in Statistics | 2016
 - 🏅 **Talented Student Award** — Educational Youth Expo, Faisalabad | 2017
 - 📍 **3rd International Conference on Recent Trends in Statistics** — NUST Islamabad | 2024
 - 📍 **Data Handling Techniques for Applied Sciences** — University of Agriculture Faisalabad | 2024
