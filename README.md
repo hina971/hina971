@@ -20,34 +20,26 @@
 
 <div align="center">
 
-**M.Phil. Statistics — University of Agriculture Faisalabad (2025)**  
 I work at the intersection of statistical methods, machine learning and data quality, with a research focus on making incomplete datasets more useful and reliable.
 
 </div>
 
 <img src="assets/section-achievements.svg" width="100%" alt="Achievements">
 
-- 🎓 **M.Phil. Statistics** — University of Agriculture Faisalabad | 2023–2025 | CGPA: 3.28/4.00
-- 🎓 **BS (Hons.) Statistics** — Government College University Faisalabad | 2015–2019 | CGPA: 3.04/4.00
-- 🎓 **B.Ed.** — Allama Iqbal Open University | 2019–2021 | 73%
-- 🏅 **HEC Merit Scholarship** — Bachelor's in Statistics | 2016
 - 🏅 **Talented Student Award** — Educational Youth Expo, Faisalabad | 2017
 - 📍 **3rd International Conference on Recent Trends in Statistics** — NUST Islamabad | 2024
 - 📍 **Data Handling Techniques for Applied Sciences** — University of Agriculture Faisalabad | 2024
 - 📍 **Latest Data Analysis Tools of Mathematics and Statistics** — University of Agriculture Faisalabad | 2024
 
-*Additional workshops: Analysis using Statistical Software; Data Visualization & Analysis with SPSS; E-Rozgaar Faisalabad Convention; Freelancing and Digital Marketing.*
 
 <img src="assets/section-projects.svg" width="100%" alt="Live projects">
 
 | Project | Details | Live app |
 |:---|:---|:---:|
-| **M.Phil. Simulation Study** | Comparative analysis of advanced machine learning and traditional statistical methods for missing data imputation. | Research |
 | **NASA Space Apps Challenge** | Project entry developed for NASA Space Apps Challenge 2026. | [LIVE APP](https://hr-pyro-vanta.vercel.app/) |
 | **DataMind AI** | AI project prototype. | [LIVE APP](https://datamind-ai-bendofu7gv2zaaujeaoepe.streamlit.app/) |
 | **HypothesisX AI** | AI hypothesis assistant prototype. | [LIVE APP](https://hypothesisx-ai-hypothesis-agent.streamlit.app/) |
 
-🔹 Explore further projects in [my repositories](https://github.com/hina971?tab=repositories).
 
 <img src="assets/section-skills.svg" width="100%" alt="Skills and stack">
 
@@ -99,12 +91,6 @@ I work at the intersection of statistical methods, machine learning and data qua
 
 </div>
 
-<img src="assets/section-focus.svg" width="100%" alt="Research focus">
-
-- **M.Phil. thesis:** *Comparative Analysis of Advanced Machine Learning Techniques and Statistical Methods for Missing Data Imputation: A Simulation Study.*
-- Designed simulation studies in **R and Python** to compare machine-learning approaches (including MissForest and deep learning) with traditional statistical methods.
-- Evaluated imputation performance through **accuracy, bias and efficiency** under different missingness mechanisms.
-- Research interests: missing data analytics, statistical learning, AI-assisted imputation and high-dimensional incomplete datasets.
 
 <img src="assets/section-stats.svg" width="100%" alt="GitHub activity">
 
