@@ -120,6 +120,7 @@ I work at the intersection of statistical methods, machine learning and data qua
 **Email:** [hina199681@gmail.com](mailto:hina199681@gmail.com)  
 **LinkedIn:** [linkedin.com/in/hina-ramzan-81536033a](https://www.linkedin.com/in/hina-ramzan-81536033a/)  
 **GitHub:** [github.com/hina971](https://github.com/hina971)
+**Portfolio:** [github.com/hina971](https://hina971.github.io/hina-ramzan-portfolio/)
 
 ---
 
